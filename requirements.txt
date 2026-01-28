@@ -2,3 +2,5 @@ pandas
 yfinance
 jupyter
 requests
+anthropic
+python-dotenv
